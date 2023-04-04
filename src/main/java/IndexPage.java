@@ -7,6 +7,7 @@ import java.util.List;
 
 public class IndexPage extends Pages{
 
+
     public IndexPage(WebDriver driver){
         super(driver);
     }
